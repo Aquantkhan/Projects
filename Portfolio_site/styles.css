@@ -1,0 +1,773 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+
+body
+{
+    transition: 0.5s;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(241, 241, 241);
+    font-family: 'Poppins', 'sans-serif';
+}
+
+
+header
+{
+    display: flex;
+    justify-content: flex-end;
+    background-color:  rgb(89, 122, 214);
+    position: relative;
+    /* width: 100%; */
+    padding: 30px;
+}
+
+h1
+{
+    font-size: 70px;
+    /* width: fit-content;
+    height: fit-content; */
+    line-height: 70px;
+    font-weight: 300;
+    margin: 10px 0;
+}
+
+
+h2
+{
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 300;
+    margin: 10px 0;
+}
+
+p
+{
+    margin: 0px;
+    font-size: 20px;
+}
+
+a
+{
+    color: rgb(162, 0, 255);
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 300;
+    target="blank"
+}
+
+.dark a
+{
+    color: pink;
+}
+.square h2
+{
+    margin: 50px 0 10px 0;
+}
+#github
+{
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+    padding: 0;
+    float: right;
+    /* background-image: url("github-square.png"); */
+    background-size: cover;
+}
+.switch 
+{
+    width: 80px;
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(39, 38, 38);
+    float: right;
+    position: relative;
+}
+
+.flicker 
+{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgb(255,255,255);
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    transition: 0.5s;
+    box-shadow: 
+    inset 4px 4px 4px rgb(255, 255, 255),
+    inset -10px -10px 10px rgb(195 193 198 / 90%);
+}
+
+
+.dark
+{
+    background-color: rgb(57, 57, 57);
+}
+
+
+.moon
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 0 0 rgb(255, 255, 255);
+    position: absolute;
+    top: 5px;
+    left: 45px;
+}
+
+.dark .flicker
+{
+    transform: translateX(40px);
+}
+
+.dark > *
+{
+    color:rgb(255,255,255);
+}
+
+.main
+{
+    height: 40vh;
+    margin-bottom: 10px;
+}
+
+
+.main-text
+{
+    width: 50%;
+    float: left;
+    padding: 30px;
+}
+
+.myPhotos
+{
+    width: 50%;
+    float: right;
+    height: 100%;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    /* background-image: url("Alibek.JPEG"); */
+    /* background-color:rgb(89, 122, 214); */
+    background-size: cover;
+}
+
+#photo1
+{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    /* background-color: red; */
+}
+
+
+
+.square
+{
+    width: 98%;
+    height: 600px;
+    background-color: white;
+    text-align: center;
+    margin: 1%;
+}
+
+.sq1
+{
+    background-size: cover;
+    width: 100%;
+    height: 69%;
+}
+
+.dark .square
+{
+    background-color: rgb(71, 71, 71);
+}
+
+
+.sub-section
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#just-words
+{
+    padding-bottom: 10px;
+    padding-top: 50px;
+    margin: 30px;
+}
+.skills
+{
+    margin-top:10px;
+    padding: 30px;
+    height: 300px;
+    margin-bottom:50px;
+}
+
+.hero-image
+{
+    position: relative;
+    height: 100%;
+    display: block;
+}
+
+.cube
+{
+    position: absolute;
+    width: 80px;
+    /* width: 5%;  */
+    height: 80px;
+    float: left;
+    margin-left: 10px;
+    transform: rotate(-25deg) skew(25deg);
+}
+
+.cube::before
+{
+    position: absolute;
+    content: "";
+    width: 21px;
+    height: 100%;
+    transform: skewY(-45deg);
+    left: -20px;
+    bottom: -10px;
+}
+
+.cube::after
+{
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 21px;
+    transform: skewX(-45deg);
+    left: -10px;
+    bottom: -20px;
+}
+
+#HTML
+{
+    left: 2%;
+    float: left;
+    bottom: 50%; 
+    background-image: url("html-square.png");
+    background-size: cover;
+    background-color: rgb(175, 119, 227);
+    box-shadow: -50px 60px 10px rgb(50 50 50 / 15%);
+}
+
+#HTML:before
+{
+    background-color: rgb(189, 154, 221);
+}
+
+#HTML:after
+{
+    background-color: rgb(205, 188, 221);
+}
+
+#CSS
+{
+    left: 15%;
+    bottom: 50%; 
+    background-image: url("css-square.png");
+    background-size: cover;
+    background-color: rgb(72, 116, 236);
+    box-shadow: -50px 60px 10px rgb(50 50 50 / 15%);
+}
+
+#CSS:before
+{
+    background-color: rgb(99, 119, 231);
+}
+
+#CSS:after
+{
+    background-color: rgb(144, 158, 235);
+}
+
+
+#Javascript
+{
+    left: 28%;
+    bottom: 50%; 
+    background-image: url("javascript-square.png");
+    background-size: cover;
+    background-color: rgb(81, 251, 195);
+    box-shadow: -50px 60px 10px rgb(50 50 50 / 15%);
+}
+
+#Javascript:before
+{
+    background-color: rgb(124, 240, 201);
+}
+
+#Javascript:after
+{
+    background-color: rgb(174, 241, 219);
+}
+
+
+
+#Python
+{
+    left: 41%;
+    bottom: 50%; 
+    background-image: url("python-square.png");
+    background-size: cover;
+    background-color: rgb(243, 231, 61);
+    box-shadow: -50px 60px 10px rgb(50 50 50 / 15%);
+}
+
+#Python:before
+{
+    background-color: rgb(241, 231, 96);
+}
+
+#Python:after
+{
+    background-color: rgb(239, 241, 136);
+}
+
+#Cpp
+{
+    left: 54%;
+    bottom: 50%; 
+    background-image: url("c++-square.png");
+    background-size: cover;
+    background-color: rgb(175, 119, 227);;
+    box-shadow: -50px 60px 10px rgb(50 50 50 / 15%);
+}
+
+#Cpp:before
+{
+    background-color: rgb(189, 154, 221);
+}
+
+#Cpp:after
+{
+    background-color: rgb(205, 188, 221);
+}
+
+#MySQL
+{
+    left: 67%;
+    bottom: 50%; 
+    background-image: url("sql-square.png");
+    background-size: cover;
+    background-color: rgb(81, 251, 195);
+    box-shadow: -50px 60px 10px rgb(50 50 50 / 15%);
+}
+
+#MySQL:before
+{
+    background-color: rgb(124, 240, 201);
+}
+
+#MySQL:after
+{
+    background-color: rgb(174, 241, 219);
+}
+
+
+#Java
+{
+    left: 80%; 
+    float: right;
+    bottom: 50%; 
+    background-image: url("java-square.png");
+    background-size: cover;
+    background-color: rgb(243, 231, 61);
+    box-shadow: -50px 60px 10px rgb(50 50 50 / 15%);
+}
+
+#Java:before
+{
+    background-color: rgb(241, 231, 96);
+}
+
+#Java:after
+{
+    background-color: rgb(239, 241, 136);
+}
+
+
+#Csharp
+{
+    left: 93%;
+    bottom: 50%; 
+    background-image: url("csharp-square.png");
+    background-size: cover;
+    background-color: rgb(72, 116, 236);
+    box-shadow: -50px 60px 10px rgb(50 50 50 / 15%);
+}
+
+#Csharp:before
+{
+    background-color: rgb(99, 119, 231);
+}
+
+#Csharp:after
+{
+    background-color: rgb(144, 158, 235);
+}
+
+
+footer
+{
+    display: flex;
+    justify-content: center;
+    padding: 100px 30px;
+    background-color: rgb(136, 136, 136);
+}
+
+.dark footer
+{
+    background-color: rgb(28, 28 ,28);
+}
+
+@media only screen and (min-width: 970px)
+{
+    .main-text
+    {
+        width: 30%;
+    }
+    .square 
+    {
+        width: 48%;
+        margin: 1%;
+        height: 600px;
+    }
+}
+
+
+@media only screen and (max-width: 1599px)
+{
+    h1
+    {
+    font-size: 45px;
+    line-height: 70px;
+    font-weight: 300;
+    margin: 5px 0;
+    }
+
+
+    h2
+    {
+        font-size: 25px;
+        line-height: 40px;
+        font-weight: 300;
+        margin: 5px 0;
+    }
+
+    p
+    {
+        margin: 0px;
+        font-size: 15px;
+    }
+    .main
+    {
+        height: 45vh;
+    }
+    .skills
+    {
+        height: 400px;
+    }
+
+    #HTML
+    {
+        bottom: 62%;
+        left: 2%;
+    }
+
+    #CSS
+    {
+        bottom: 62%;
+        left: 17%;
+    }
+
+    #Javascript
+    {
+        bottom: 62%;
+        left: 32%;
+    }
+
+    #Python
+    {
+        bottom: 62%;
+        left: 47%;
+    }
+
+    #Cpp
+    {
+        bottom: 62%;
+        left: 62%;
+    }
+
+    #MySQL
+    {
+        bottom: 62%;
+        left: 77%;
+    }
+
+    #Java
+    {
+        bottom: 62%;   
+        left: 92%;
+    }
+
+    #Csharp
+    {
+        bottom: 20%;
+        left: 2%;
+    }
+}
+
+@media only screen and (max-width: 1404px)
+{
+    #HTML
+    {
+        left: 2%;
+    }
+
+    #CSS
+    {
+        left: 19.6%;
+    }
+
+    #Javascript
+    {
+        left: 37.2%;
+    }
+
+    #Python
+    {
+        left: 54.8%;
+    }
+
+    #Cpp
+    {
+        left: 72.4%;
+    }
+
+    #MySQL
+    {
+        left: 90%;
+    }
+
+    #Java
+    {
+        left: 19%;
+        bottom: 20%;
+    }
+
+    #Csharp
+    {
+        bottom: 20%;
+        left: 2%;
+    }
+}
+
+@media only screen and (max-width: 1140px)
+{
+    .main
+    {
+        height: 50vh;
+    }
+    #HTML
+    {
+        left: 2%;
+    }
+
+    #CSS
+    {
+        left: 23.5%;
+    }
+
+    #Javascript
+    {
+        left: 45%;
+    }
+
+    #Python
+    {
+        left: 66.5%;
+    }
+
+    #Cpp
+    {
+        left: 88%;
+    }
+
+    #MySQL
+    {
+        left: 45%;
+        bottom: 20%;
+    }
+
+    #Java
+    {
+        left: 23.5%;
+        bottom: 20%;
+    }
+
+    #Csharp
+    {
+        bottom: 20%;
+        left: 2%;
+    }
+}
+
+@media only screen and (max-width: 970px)
+{
+    .main
+    {
+    height: 80vh;
+    margin-bottom: 10px;
+    }
+
+    .myPhotos
+    {
+    width: 85.5%;
+    height: 400px;
+    margin: 30px;
+    background-size: cover;
+    }
+
+    #photo1
+    {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    }
+    #HTML
+    {
+        left: 2%;
+    }
+
+    #CSS
+    {
+        left: 30%;
+    }
+
+    #Javascript
+    {
+        left: 58%;
+    }
+
+    #Python
+    {
+        left: 86%;
+    }
+
+    #Cpp
+    {
+        left: 86%;
+        bottom: 20%
+    }
+
+    #MySQL
+    {
+        left: 58%;
+        bottom: 20%;
+    }
+
+    #Java
+    {
+        left: 30%;
+        bottom: 20%;
+    }
+
+    #Csharp
+    {
+        bottom: 20%;
+        left: 2%;
+    }
+}
+
+@media only screen and (max-width: 830px)
+{
+
+    .skills
+    {
+        height: 800px;
+        margin-bottom: 100px;
+    }
+    #HTML
+    {
+        bottom: 85%;
+        left: 8%;
+    }
+
+    #CSS
+    {
+        bottom: 85%;
+        left: 65%;
+    }
+
+    #Javascript
+    {
+        left: 8%;
+        bottom: 35%;
+    }
+
+    #Python
+    {
+        left: 65%;
+        bottom: 10%;
+    }
+
+    #Cpp
+    {
+        left: 65%;
+        bottom: 35%
+    }
+
+    #MySQL
+    {
+        left: 8%;
+        bottom: 10%;
+    }
+
+    #Java
+    {
+        left: 65%;
+        bottom: 60%;
+    }
+
+    #Csharp
+    {
+        left: 8%;
+        bottom: 60%;
+    }
+
+    h1
+    {
+    font-size: 50px;
+    line-height: 70px;
+    font-weight: 300;
+    margin: 5px 0;
+    }
+
+
+    h2
+    {
+        font-size: 30px;
+        line-height: 40px;
+        font-weight: 300;
+        margin: 5px 0;
+    }
+
+    p
+    {
+        margin: 0px;
+        font-size: 15px;
+    }
+}
