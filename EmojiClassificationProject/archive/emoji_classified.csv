@@ -1,0 +1,952 @@
+#,emoji,unicode,name
+1,😀,U+1F600,happy
+2,😃,U+1F603,happy
+3,😄,U+1F604,happy
+4,😁,U+1F601,happy
+5,😆,U+1F606,happy
+6,😅,U+1F605,happy
+7,🤣,U+1F923,happy
+8,😂,U+1F602,happy
+9,🙂,U+1F642,happy
+10,🙃,U+1F643,happy
+11,😉,U+1F609,happy
+12,😊,U+1F60A,happy
+13,😇,U+1F607,happy
+14,🥰,U+1F970,love
+15,😍,U+1F60D,love
+16,🤩,U+1F929,surprised
+17,😘,U+1F618,love
+18,😗,U+1F617,love
+19,☺,U+263A,happy
+20,😚,U+1F61A,love
+21,😙,U+1F619,love
+22,🥲,U+1F972,sad
+23,😋,U+1F60B,happy
+24,😛,U+1F61B,happy
+25,😜,U+1F61C,happy
+26,🤪,U+1F92A,happy
+27,😝,U+1F61D,happy
+28,🤑,U+1F911,surprised
+29,🤗,U+1F917,happy
+30,🤭,U+1F92D,happy
+31,🤫,U+1F92B,neutral
+32,🤔,U+1F914,neutral
+33,🤐,U+1F910,neutral
+34,🤨,U+1F928,neutral
+35,😐,U+1F610,neutral
+36,😑,U+1F611,neutral
+37,😶,U+1F636,neutral
+38,😶‍🌫️,U+1F636,neutral
+39,😏,U+1F60F,happy
+40,😒,U+1F612,sad
+41,🙄,U+1F644,sad
+42,😬,U+1F62C,sad
+43,😮‍💨,U+1F62E,sad
+44,🤥,U+1F925,neutral
+45,😌,U+1F60C,happy
+46,😔,U+1F614,sad
+47,😪,U+1F62A,neutral
+48,🤤,U+1F924,happy
+49,😴,U+1F634,neutral
+50,😷,U+1F637,sick
+51,🤒,U+1F912,sick
+52,🤕,U+1F915,sick
+53,🤢,U+1F922,sick
+54,🤮,U+1F92E,sick
+55,🤧,U+1F927,sick
+56,🥵,U+1F975,sick
+57,🥶,U+1F976,sick
+58,🥴,U+1F974,sick
+59,😵,U+1F635,sick
+60,😵‍💫,U+1F635 U+200D U+1F4AB,sick
+61,🤯,U+1F92F,surprised
+62,🤠,U+1F920,happy
+63,🥳,U+1F973,happy
+64,🥸,U+1F978,neutral
+65,😎,U+1F60E,happy
+66,🤓,U+1F913,happy
+67,🧐,U+1F9D0,neutral
+68,😕,U+1F615,surprised
+69,😟,U+1F61F,sad
+70,🙁,U+1F641,sad
+71,☹,U+2639,sad
+72,😮,U+1F62E,surprised
+73,😯,U+1F62F,surprised
+74,😲,U+1F632,surprised
+75,😳,U+1F633,surprised
+76,🥺,U+1F97A,sad
+77,😦,U+1F626,surprised
+78,😧,U+1F627,fear
+79,😨,U+1F628,fear
+80,😰,U+1F630,fear
+81,😥,U+1F625,sad
+82,😢,U+1F622,sad
+83,😭,U+1F62D,sad
+84,😱,U+1F631,surprised
+85,😖,U+1F616,fear
+86,😣,U+1F623,fear
+87,😞,U+1F61E,sad
+88,😓,U+1F613,fear
+89,😩,U+1F629,sad
+90,😫,U+1F62B,sad
+91,🥱,U+1F971,neutral
+92,😤,U+1F624,angry
+93,😡,U+1F621,angry
+94,😠,U+1F620,angry
+95,🤬,U+1F92C,angry
+96,😈,U+1F608,angry
+97,👿,U+1F47F,angry
+98,💀,U+1F480,fear
+99,☠,U+2620,fear
+105,👽,U+1F47D,alien
+106,👾,U+1F47E,alien
+107,🤖,U+1F916,robot
+108,😺,U+1F63A,cat
+109,😸,U+1F638,cat
+110,😹,U+1F639,cat
+111,😻,U+1F63B,cat
+112,😼,U+1F63C,cat
+113,😽,U+1F63D,cat
+114,🙀,U+1F640,cat
+115,😿,U+1F63F,cat
+116,😾,U+1F63E,cat
+117,🙈,U+1F648,animal
+118,🙉,U+1F649,animal
+119,🙊,U+1F64A,animal
+120,💋,U+1F48B,love
+121,💌,U+1F48C,love
+122,💘,U+1F498,heart
+123,💝,U+1F49D,heart
+124,💖,U+1F496,heart
+125,💗,U+1F497,heart
+126,💓,U+1F493,heart
+127,💞,U+1F49E,heart
+128,💕,U+1F495,heart
+129,💟,U+1F49F,heart
+130,❣,U+2763,heart
+131,💔,U+1F494,heart
+132,❤️‍🔥,U+1F525,heart
+134,❤,U+2764,heart
+135,🧡,U+1F9E1,heart
+136,💛,U+1F49B,heart
+137,💚,U+1F49A,heart
+138,💙,U+1F499,heart
+139,💜,U+1F49C,heart
+140,🤎,U+1F90E,heart
+141,🖤,U+1F5A4,heart
+142,🤍,U+1F90D,heart
+143,💯,U+1F4AF,number
+144,💢,U+1F4A2,angry
+145,💥,U+1F4A5,effect
+146,💫,U+1F4AB,effect
+147,💦,U+1F4A6,effect
+148,💨,U+1F4A8,effect
+149,🕳,U+1F573,object
+150,💣,U+1F4A3,object
+151,💬,U+1F4AC,object
+153,🗨,U+1F5E8,object
+154,🗯,U+1F5EF,object
+155,💭,U+1F4AD,object
+156,💤,U+1F4A4,action
+157,👋,U+1F44B,hand
+158,🤚,U+1F91A,hand
+159,🖐,U+1F590,hand
+160,✋,U+270B,hand
+161,🖖,U+1F596,hand
+162,👌,U+1F44C,hand
+163,🤌,U+1F90C,hand
+164,🤏,U+1F90F,hand
+165,✌,U+270C,hand
+166,🤞,U+1F91E,hand
+167,🤟,U+1F91F,hand
+168,🤘,U+1F918,hand
+169,🤙,U+1F919,hand
+170,👈,U+1F448,hand
+171,👉,U+1F449,hand
+172,👆,U+1F446,hand
+173,🖕,U+1F595,hand
+174,👇,U+1F447,hand
+175,☝,U+261D,hand
+176,👍,U+1F44D,hand
+177,👎,U+1F44E,hand
+178,✊,U+270A,hand
+179,👊,U+1F44A,hand
+180,🤛,U+1F91B,hand
+181,🤜,U+1F91C,hand
+182,👏,U+1F44F,hand
+183,🙌,U+1F64C,hand
+184,👐,U+1F450,hand
+185,🤲,U+1F932,hand
+186,🤝,U+1F91D,hand
+187,🙏,U+1F64F,hand
+188,✍,U+270D,hand
+189,💅,U+1F485,hand
+190,🤳,U+1F933,hand
+191,💪,U+1F4AA,body
+192,🦾,U+1F9BE,body
+193,🦿,U+1F9BF,body
+194,🦵,U+1F9B5,body
+195,🦶,U+1F9B6,body
+196,👂,U+1F442,body
+197,🦻,U+1F9BB,body
+198,👃,U+1F443,body
+199,🧠,U+1F9E0,body
+200,🫀,U+1FAC0,body
+201,🫁,U+1FAC1,body
+202,🦷,U+1F9B7,body
+203,🦴,U+1F9B4,body
+204,👀,U+1F440,body
+205,👁,U+1F441,body
+206,👅,U+1F445,body
+207,👄,U+1F444,body
+208,👶,U+1F476,person
+209,🧒,U+1F9D2,person
+210,👦,U+1F466,person
+211,👧,U+1F467,person
+212,🧑,U+1F9D1,person
+213,👱,U+1F471,person
+214,👨,U+1F468,person
+215,🧔,U+1F9D4,person
+216,🧔‍♂️,U+1F9D4,person
+217,🧔‍♀️,U+1F9D4,person
+218,👨‍🦰,U+1F468,person
+219,👨‍🦱,U+1F468,person
+220,👨‍🦳,U+1F468,person
+221,👨‍🦲,U+1F468,person
+222,👩,U+1F469,person
+223,👩‍🦰,U+1F469,person
+224,🧑‍🦰,U+1F9D1,person
+225,👩‍🦱,U+1F469,person
+226,🧑‍🦱,U+1F9D1,person
+227,👩‍🦳,U+1F469,person
+228,🧑‍🦳,U+1F9D1,person
+229,👩‍🦲,U+1F469,person
+230,🧑‍🦲,U+1F9D1,person
+231,👱‍♀️,U+1F471,person
+232,👱‍♂️,U+1F471,person
+233,🧓,U+1F9D3,person
+234,👴,U+1F474,person
+235,👵,U+1F475,person
+236,🙍,U+1F64D,person
+237,🙍‍♂️,U+1F64D,person
+238,🙍‍♀️,U+1F64D U+200D U+2640 U+FE0F,person
+239,🙎,U+1F64E,person
+240,🙎‍♂️,U+1F64E U+200D U+2642 U+FE0F,person
+241,🙎‍♀️,U+1F64E U+200D U+2640 U+FE0F,person
+242,🙅,U+1F645,person
+243,🙅‍♂️,U+1F645 U+200D U+2642 U+FE0F,person
+244,🙅‍♀️,U+1F645 U+200D U+2640 U+FE0F,person
+245,🙆,U+1F646,person
+246,🙆‍♂️,U+1F646 U+200D U+2642 U+FE0F,person
+247,🙆‍♀️,U+1F646 U+200D U+2640 U+FE0F,person
+248,💁,U+1F481,person
+249,💁‍♂️,U+1F481 U+200D U+2642 U+FE0F,person
+250,💁‍♀️,U+1F481 U+200D U+2640 U+FE0F,person
+251,🙋,U+1F64B,person
+252,🙋‍♂️,U+1F64B U+200D U+2642 U+FE0F,person
+253,🙋‍♀️,U+1F64B U+200D U+2640 U+FE0F,person
+254,🧏,U+1F9CF,person
+255,🧏‍♂️,U+1F9CF U+200D U+2642 U+FE0F,person
+256,🧏‍♀️,U+1F9CF U+200D U+2640 U+FE0F,person
+257,🙇,U+1F647,person
+258,🙇‍♂️,U+1F647 U+200D U+2642 U+FE0F,person
+259,🙇‍♀️,U+1F647 U+200D U+2640 U+FE0F,person
+260,🤦,U+1F926,person
+261,🤦‍♂️,U+1F926 U+200D U+2642 U+FE0F,person
+262,🤦‍♀️,U+1F926 U+200D U+2640 U+FE0F,person
+263,🤷,U+1F937,person
+264,🤷‍♂️,U+1F937 U+200D U+2642 U+FE0F,person
+265,🤷‍♀️,U+1F937 U+200D U+2640 U+FE0F,person
+266,🧑‍⚕️,U+1F9D1 U+200D U+2695 U+FE0F,profession
+267,👨‍⚕️,U+1F468 U+200D U+2695 U+FE0F,profession
+268,👩‍⚕️,U+1F469 U+200D U+2695 U+FE0F,profession
+269,🧑‍🎓,U+1F9D1 U+200D U+1F393,profession
+270,👨‍🎓,U+1F468 U+200D U+1F393,profession
+271,👩‍🎓,U+1F469 U+200D U+1F393,profession
+272,🧑‍🏫,U+1F9D1 U+200D U+1F3EB,profession
+273,👨‍🏫,U+1F468 U+200D U+1F3EB,profession
+274,👩‍🏫,U+1F469 U+200D U+1F3EB,profession
+275,🧑‍⚖️,U+1F9D1 U+200D U+2696 U+FE0F,profession
+276,👨‍⚖️,U+1F468 U+200D U+2696 U+FE0F,profession
+277,👩‍⚖️,U+1F469 U+200D U+2696 U+FE0F,profession
+278,🧑‍🌾,U+1F9D1 U+200D U+1F33E,profession
+279,👨‍🌾,U+1F468 U+200D U+1F33E,profession
+280,👩‍🌾,U+1F469 U+200D U+1F33E,profession
+281,🧑‍🍳,U+1F9D1 U+200D U+1F373,profession
+282,👨‍🍳,U+1F468 U+200D U+1F373,profession
+283,👩‍🍳,U+1F469 U+200D U+1F373,profession
+284,🧑‍🔧,U+1F9D1 U+200D U+1F527,profession
+285,👨‍🔧,U+1F468 U+200D U+1F527,profession
+286,👩‍🔧,U+1F469 U+200D U+1F527,profession
+287,🧑‍🏭,U+1F9D1 U+200D U+1F3ED,profession
+288,👨‍🏭,U+1F468 U+200D U+1F3ED,profession
+289,👩‍🏭,U+1F469 U+200D U+1F3ED,profession
+290,🧑‍💼,U+1F9D1 U+200D U+1F4BC,profession
+291,👨‍💼,U+1F468 U+200D U+1F4BC,profession
+292,👩‍💼,U+1F469 U+200D U+1F4BC,profession
+293,🧑‍🔬,U+1F9D1 U+200D U+1F52C,profession
+294,👨‍🔬,U+1F468 U+200D U+1F52C,profession
+295,👩‍🔬,U+1F469 U+200D U+1F52C,profession
+296,🧑‍💻,U+1F9D1 U+200D U+1F4BB,profession
+297,👨‍💻,U+1F468 U+200D U+1F4BB,profession
+298,👩‍💻,U+1F469 U+200D U+1F4BB,profession
+299,🧑‍🎤,U+1F9D1 U+200D U+1F3A4,profession
+300,👨‍🎤,U+1F468 U+200D U+1F3A4,profession
+301,👩‍🎤,U+1F469 U+200D U+1F3A4,profession
+302,🧑‍🎨,U+1F9D1 U+200D U+1F3A8,profession
+303,👨‍🎨,U+1F468 U+200D U+1F3A8,profession
+304,👩‍🎨,U+1F469 U+200D U+1F3A8,profession
+305,🧑‍✈️,U+1F9D1 U+200D U+2708 U+FE0F,profession
+306,👨‍✈️,U+1F468 U+200D U+2708 U+FE0F,profession
+307,👩‍✈️,U+1F469 U+200D U+2708 U+FE0F,profession
+308,🧑‍🚀,U+1F9D1 U+200D U+1F680,profession
+309,👨‍🚀,U+1F468 U+200D U+1F680,profession
+310,👩‍🚀,U+1F469 U+200D U+1F680,profession
+311,🧑‍🚒,U+1F9D1 U+200D U+1F692,profession
+312,👨‍🚒,U+1F468 U+200D U+1F692,profession
+313,👩‍🚒,U+1F469 U+200D U+1F692,profession
+314,👮,U+1F46E,profession
+315,👮‍♂️,U+1F46E U+200D U+2642 U+FE0F,profession
+316,👮‍♀️,U+1F46E U+200D U+2640 U+FE0F,profession
+317,🕵,U+1F575,profession
+318,🕵️‍♂️,U+1F575 U+FE0F U+200D U+2642 U+FE0F,profession
+319,🕵️‍♀️,U+1F575 U+FE0F U+200D U+2640 U+FE0F,profession
+320,💂,U+1F482,profession
+321,💂‍♂️,U+1F482 U+200D U+2642 U+FE0F,profession
+322,💂‍♀️,U+1F482 U+200D U+2640 U+FE0F,profession
+323,🥷,U+1F977,profession
+324,👷,U+1F477,profession
+325,👷‍♂️,U+1F477 U+200D U+2642 U+FE0F,profession
+326,👷‍♀️,U+1F477 U+200D U+2640 U+FE0F,profession
+327,🤴,U+1F934,profession
+328,👸,U+1F478,profession
+329,👳,U+1F473,profession
+330,👳‍♂️,U+1F473 U+200D U+2642 U+FE0F,person
+331,👳‍♀️,U+1F473 U+200D U+2640 U+FE0F,person
+332,👲,U+1F472,person
+333,🧕,U+1F9D5,person
+334,🤵,U+1F935,person
+335,🤵‍♂️,U+1F935 U+200D U+2642 U+FE0F,person
+336,🤵‍♀️,U+1F935 U+200D U+2640 U+FE0F,person
+337,👰,U+1F470,person
+338,👰‍♂️,U+1F470 U+200D U+2642 U+FE0F,person
+339,👰‍♀️,U+1F470 U+200D U+2640 U+FE0F,person
+340,🤰,U+1F930,person
+341,🤱,U+1F931,person
+342,👩‍🍼,U+1F469 U+200D U+1F37C,person
+343,👨‍🍼,U+1F468 U+200D U+1F37C,person
+344,🧑‍🍼,U+1F9D1 U+200D U+1F37C,person
+345,👼,U+1F47C,person
+346,🎅,U+1F385,person
+347,🤶,U+1F936,person
+348,🧑‍🎄,U+1F9D1 U+200D U+1F384,person
+349,🦸,U+1F9B8,profession
+350,🦸‍♂️,U+1F9B8 U+200D U+2642 U+FE0F,profession
+351,🦸‍♀️,U+1F9B8 U+200D U+2640 U+FE0F,profession
+352,🦹,U+1F9B9,profession
+353,🦹‍♂️,U+1F9B9 U+200D U+2642 U+FE0F,profession
+354,🦹‍♀️,U+1F9B9 U+200D U+2640 U+FE0F,profession
+355,🧙,U+1F9D9,profession
+356,🧙‍♂️,U+1F9D9 U+200D U+2642 U+FE0F,profession
+357,🧙‍♀️,U+1F9D9 U+200D U+2640 U+FE0F,profession
+358,🧚,U+1F9DA,profession
+359,🧚‍♂️,U+1F9DA U+200D U+2642 U+FE0F,profession
+360,🧚‍♀️,U+1F9DA U+200D U+2640 U+FE0F,profession
+361,🧛,U+1F9DB,profession
+362,🧛‍♂️,U+1F9DB U+200D U+2642 U+FE0F,profession
+363,🧛‍♀️,U+1F9DB U+200D U+2640 U+FE0F,profession
+364,🧜,U+1F9DC,profession
+365,🧜‍♂️,U+1F9DC U+200D U+2642 U+FE0F,profession
+366,🧜‍♀️,U+1F9DC U+200D U+2640 U+FE0F,profession
+367,🧝,U+1F9DD,profession
+368,🧝‍♂️,U+1F9DD U+200D U+2642 U+FE0F,profession
+369,🧝‍♀️,U+1F9DD U+200D U+2640 U+FE0F,profession
+370,🧞,U+1F9DE,profession
+371,🧞‍♂️,U+1F9DE U+200D U+2642 U+FE0F,profession
+372,🧞‍♀️,U+1F9DE U+200D U+2640 U+FE0F,profession
+373,🧟,U+1F9DF,profession
+374,🧟‍♂️,U+1F9DF U+200D U+2642 U+FE0F,profession
+375,🧟‍♀️,U+1F9DF U+200D U+2640 U+FE0F,profession
+376,💆,U+1F486,person
+377,💆‍♂️,U+1F486 U+200D U+2642 U+FE0F,person
+378,💆‍♀️,U+1F486 U+200D U+2640 U+FE0F,person
+379,💇,U+1F487,person
+380,💇‍♂️,U+1F487 U+200D U+2642 U+FE0F,person
+381,💇‍♀️,U+1F487 U+200D U+2640 U+FE0F,person
+382,🚶,U+1F6B6,action
+383,🚶‍♂️,U+1F6B6 U+200D U+2642 U+FE0F,action
+384,🚶‍♀️,U+1F6B6 U+200D U+2640 U+FE0F,action
+385,🧍,U+1F9CD,action
+386,🧍‍♂️,U+1F9CD U+200D U+2642 U+FE0F,action
+387,🧍‍♀️,U+1F9CD U+200D U+2640 U+FE0F,action
+388,🧎,U+1F9CE,action
+389,🧎‍♂️,U+1F9CE U+200D U+2642 U+FE0F,action
+390,🧎‍♀️,U+1F9CE U+200D U+2640 U+FE0F,action
+391,🧑‍🦯,U+1F9D1 U+200D U+1F9AF,action
+392,👨‍🦯,U+1F468 U+200D U+1F9AF,action
+393,👩‍🦯,U+1F469 U+200D U+1F9AF,action
+394,🧑‍🦼,U+1F9D1 U+200D U+1F9BC,action
+395,👨‍🦼,U+1F468 U+200D U+1F9BC,action
+396,👩‍🦼,U+1F469 U+200D U+1F9BC,action
+397,🧑‍🦽,U+1F9D1 U+200D U+1F9BD,action
+398,👨‍🦽,U+1F468 U+200D U+1F9BD,action
+399,👩‍🦽,U+1F469 U+200D U+1F9BD,action
+400,🏃,U+1F3C3,action
+401,🏃‍♂️,U+1F3C3 U+200D U+2642 U+FE0F,action
+402,🏃‍♀️,U+1F3C3 U+200D U+2640 U+FE0F,action
+403,💃,U+1F483,action
+404,🕺,U+1F57A,action
+405,🕴,U+1F574,action
+406,👯,U+1F46F,action
+407,👯‍♂️,U+1F46F U+200D U+2642 U+FE0F,action
+408,👯‍♀️,U+1F46F U+200D U+2640 U+FE0F,action
+409,🧖,U+1F9D6,action
+410,🧖‍♂️,U+1F9D6 U+200D U+2642 U+FE0F,action
+411,🧖‍♀️,U+1F9D6 U+200D U+2640 U+FE0F,action
+412,🧗,U+1F9D7,action
+413,🧗‍♂️,U+1F9D7 U+200D U+2642 U+FE0F,action
+414,🧗‍♀️,U+1F9D7 U+200D U+2640 U+FE0F,action
+415,🤺,U+1F93A,action
+416,🏇,U+1F3C7,action
+417,⛷,U+26F7,action
+418,🏂,U+1F3C2,action
+419,🏌,U+1F3CC,action
+420,🏌️‍♂️,U+1F3CC U+FE0F U+200D U+2642 U+FE0F,action
+421,🏌️‍♀️,U+1F3CC U+FE0F U+200D U+2640 U+FE0F,action
+422,🏄,U+1F3C4,action
+423,🏄‍♂️,U+1F3C4 U+200D U+2642 U+FE0F,action
+424,🏄‍♀️,U+1F3C4 U+200D U+2640 U+FE0F,action
+425,🚣,U+1F6A3,action
+426,🚣‍♂️,U+1F6A3 U+200D U+2642 U+FE0F,action
+427,🚣‍♀️,U+1F6A3 U+200D U+2640 U+FE0F,action
+428,🏊,U+1F3CA,action
+429,🏊‍♂️,U+1F3CA U+200D U+2642 U+FE0F,action
+430,🏊‍♀️,U+1F3CA U+200D U+2640 U+FE0F,action
+431,⛹,U+26F9,action
+432,⛹️‍♂️,U+26F9 U+FE0F U+200D U+2642 U+FE0F,action
+433,⛹️‍♀️,U+26F9 U+FE0F U+200D U+2640 U+FE0F,action
+434,🏋,U+1F3CB,action
+435,🏋️‍♂️,U+1F3CB U+FE0F U+200D U+2642 U+FE0F,action
+436,🏋️‍♀️,U+1F3CB U+FE0F U+200D U+2640 U+FE0F,action
+437,🚴,U+1F6B4,action
+438,🚴‍♂️,U+1F6B4 U+200D U+2642 U+FE0F,action
+439,🚴‍♀️,U+1F6B4 U+200D U+2640 U+FE0F,action
+440,🚵,U+1F6B5,action
+441,🚵‍♂️,U+1F6B5 U+200D U+2642 U+FE0F,action
+442,🚵‍♀️,U+1F6B5 U+200D U+2640 U+FE0F,action
+443,🤸,U+1F938,action
+444,🤸‍♂️,U+1F938 U+200D U+2642 U+FE0F,action
+445,🤸‍♀️,U+1F938 U+200D U+2640 U+FE0F,action
+446,🤼,U+1F93C,action
+447,🤼‍♂️,U+1F93C U+200D U+2642 U+FE0F,action
+448,🤼‍♀️,U+1F93C U+200D U+2640 U+FE0F,action
+449,🤽,U+1F93D,action
+450,🤽‍♂️,U+1F93D U+200D U+2642 U+FE0F,action
+451,🤽‍♀️,U+1F93D U+200D U+2640 U+FE0F,action
+452,🤾,U+1F93E,action
+453,🤾‍♂️,U+1F93E U+200D U+2642 U+FE0F,action
+454,🤾‍♀️,U+1F93E U+200D U+2640 U+FE0F,action
+455,🤹,U+1F939,action
+456,🤹‍♂️,U+1F939 U+200D U+2642 U+FE0F,action
+457,🤹‍♀️,U+1F939 U+200D U+2640 U+FE0F,action
+458,🧘,U+1F9D8,action
+459,🧘‍♂️,U+1F9D8 U+200D U+2642 U+FE0F,action
+460,🧘‍♀️,U+1F9D8 U+200D U+2640 U+FE0F,action
+461,🛀,U+1F6C0,action
+462,🛌,U+1F6CC,action
+463,🧑‍🤝‍🧑,U+1F9D1 U+200D U+1F91D U+200D U+1F9D1,action
+464,👭,U+1F46D,action
+465,👫,U+1F46B,action
+466,👬,U+1F46C,action
+467,💏,U+1F48F,love
+468,👩‍❤️‍💋‍👨,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468,love
+469,👨‍❤️‍💋‍👨,U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468,love
+470,👩‍❤️‍💋‍👩,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469,love
+471,💑,U+1F491,love
+472,👩‍❤️‍👨,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468,love
+473,👨‍❤️‍👨,U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468,love
+474,👩‍❤️‍👩,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469,love
+475,👪,U+1F46A,family
+476,👨‍👩‍👦,U+1F468 U+200D U+1F469 U+200D U+1F466,family
+477,👨‍👩‍👧,U+1F468 U+200D U+1F469 U+200D U+1F467,family
+478,👨‍👩‍👧‍👦,U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466,family
+479,👨‍👩‍👦‍👦,U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466,family
+480,👨‍👩‍👧‍👧,U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467,family
+481,👨‍👨‍👦,U+1F468 U+200D U+1F468 U+200D U+1F466,family
+482,👨‍👨‍👧,U+1F468 U+200D U+1F468 U+200D U+1F467,family
+483,👨‍👨‍👧‍👦,U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466,family
+484,👨‍👨‍👦‍👦,U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466,family
+485,👨‍👨‍👧‍👧,U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467,family
+486,👩‍👩‍👦,U+1F469 U+200D U+1F469 U+200D U+1F466,family
+487,👩‍👩‍👧,U+1F469 U+200D U+1F469 U+200D U+1F467,family
+488,👩‍👩‍👧‍👦,U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466,family
+489,👩‍👩‍👦‍👦,U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466,family
+490,👩‍👩‍👧‍👧,U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467,family
+491,👨‍👦,U+1F468 U+200D U+1F466,family
+492,👨‍👦‍👦,U+1F468 U+200D U+1F466 U+200D U+1F466,family
+493,👨‍👧,U+1F468 U+200D U+1F467,family
+494,👨‍👧‍👦,U+1F468 U+200D U+1F467 U+200D U+1F466,family
+495,👨‍👧‍👧,U+1F468 U+200D U+1F467 U+200D U+1F467,family
+496,👩‍👦,U+1F469 U+200D U+1F466,family
+497,👩‍👦‍👦,U+1F469 U+200D U+1F466 U+200D U+1F466,family
+498,👩‍👧,U+1F469 U+200D U+1F467,family
+499,👩‍👧‍👦,U+1F469 U+200D U+1F467 U+200D U+1F466,family
+500,👩‍👧‍👧,U+1F469 U+200D U+1F467 U+200D U+1F467,family
+501,🗣,U+1F5E3,action
+502,👤,U+1F464,person
+503,👥,U+1F465,person
+504,🫂,U+1FAC2,person
+505,👣,U+1F463,body
+506,🦰,U+1F9B0,person
+507,🦱,U+1F9B1,person
+508,🦳,U+1F9B3,person
+509,🦲,U+1F9B2,person
+510,🐵,U+1F435,animal
+511,🐒,U+1F412,animal
+512,🦍,U+1F98D,animal
+513,🦧,U+1F9A7,animal
+514,🐶,U+1F436,animal
+515,🐕,U+1F415,animal
+516,🦮,U+1F9AE,animal
+517,🐕‍🦺,U+1F415 U+200D U+1F9BA,animal
+518,🐩,U+1F429,animal
+519,🐺,U+1F43A,animal
+520,🦊,U+1F98A,animal
+521,🦝,U+1F99D,animal
+522,🐱,U+1F431,animal
+523,🐈,U+1F408,animal
+524,🐈‍⬛,U+1F408 U+200D U+2B1B,animal
+525,🦁,U+1F981,animal
+526,🐯,U+1F42F,animal
+527,🐅,U+1F405,animal
+528,🐆,U+1F406,animal
+529,🐴,U+1F434,animal
+530,🐎,U+1F40E,animal
+531,🦄,U+1F984,animal
+532,🦓,U+1F993,animal
+533,🦌,U+1F98C,animal
+534,🦬,U+1F9AC,animal
+535,🐮,U+1F42E,animal
+536,🐂,U+1F402,animal
+537,🐃,U+1F403,animal
+538,🐄,U+1F404,animal
+539,🐷,U+1F437,animal
+540,🐖,U+1F416,animal
+541,🐗,U+1F417,animal
+542,🐽,U+1F43D,animal
+543,🐏,U+1F40F,animal
+544,🐑,U+1F411,animal
+545,🐐,U+1F410,animal
+546,🐪,U+1F42A,animal
+547,🐫,U+1F42B,animal
+548,🦙,U+1F999,animal
+549,🦒,U+1F992,animal
+550,🐘,U+1F418,animal
+551,🦣,U+1F9A3,animal
+552,🦏,U+1F98F,animal
+553,🦛,U+1F99B,animal
+554,🐭,U+1F42D,animal
+555,🐁,U+1F401,animal
+556,🐀,U+1F400,animal
+557,🐹,U+1F439,animal
+558,🐰,U+1F430,animal
+559,🐇,U+1F407,animal
+560,🐿,U+1F43F,animal
+561,🦫,U+1F9AB,animal
+562,🦔,U+1F994,animal
+563,🦇,U+1F987,animal
+564,🐻,U+1F43B,animal
+565,🐻‍❄️,U+1F43B U+200D U+2744 U+FE0F,animal
+566,🐨,U+1F428,animal
+567,🐼,U+1F43C,animal
+568,🦥,U+1F9A5,animal
+569,🦦,U+1F9A6,animal
+570,🦨,U+1F9A8,animal
+571,🦘,U+1F998,animal
+572,🦡,U+1F9A1,animal
+573,🐾,U+1F43E,animal
+574,🦃,U+1F983,animal
+575,🐔,U+1F414,animal
+576,🐓,U+1F413,animal
+577,🐣,U+1F423,animal
+578,🐤,U+1F424,animal
+579,🐥,U+1F425,animal
+580,🐦,U+1F426,animal
+581,🐧,U+1F427,animal
+582,🕊,U+1F54A,animal
+583,🦅,U+1F985,animal
+584,🦆,U+1F986,animal
+585,🦢,U+1F9A2,animal
+586,🦉,U+1F989,animal
+587,🦤,U+1F9A4,animal
+588,🪶,U+1FAB6,animal
+589,🦩,U+1F9A9,animal
+590,🦚,U+1F99A,animal
+591,🦜,U+1F99C,animal
+592,🐸,U+1F438,animal
+593,🐊,U+1F40A,animal
+594,🐢,U+1F422,animal
+595,🦎,U+1F98E,animal
+596,🐍,U+1F40D,animal
+597,🐲,U+1F432,animal
+598,🐉,U+1F409,animal
+599,🦕,U+1F995,animal
+600,🦖,U+1F996,animal
+601,🐳,U+1F433,animal
+602,🐋,U+1F40B,animal
+603,🐬,U+1F42C,animal
+604,🦭,U+1F9AD,animal
+605,🐟,U+1F41F,animal
+606,🐠,U+1F420,animal
+607,🐡,U+1F421,animal
+608,🦈,U+1F988,animal
+609,🐙,U+1F419,animal
+610,🐚,U+1F41A,animal
+611,🐌,U+1F40C,insect
+612,🦋,U+1F98B,insect
+613,🐛,U+1F41B,insect
+614,🐜,U+1F41C,insect
+615,🐝,U+1F41D,insect
+616,🪲,U+1FAB2,insect
+617,🐞,U+1F41E,insect
+618,🦗,U+1F997,insect
+619,🪳,U+1FAB3,insect
+620,🕷,U+1F577,insect
+621,🕸,U+1F578,insect
+622,🦂,U+1F982,insect
+623,🦟,U+1F99F,insect
+624,🪰,U+1FAB0,insect
+625,🪱,U+1FAB1,insect
+626,🦠,U+1F9A0,insect
+627,💐,U+1F490,insect
+628,🌸,U+1F338,plant
+629,💮,U+1F4AE,plant
+630,🏵,U+1F3F5,plant
+631,🌹,U+1F339,plant
+632,🥀,U+1F940,plant
+633,🌺,U+1F33A,plant
+634,🌻,U+1F33B,plant
+635,🌼,U+1F33C,plant
+636,🌷,U+1F337,plant
+637,🌱,U+1F331,plant
+638,🪴,U+1FAB4,plant
+639,🌲,U+1F332,plant
+640,🌳,U+1F333,plant
+641,🌴,U+1F334,plant
+642,🌵,U+1F335,plant
+643,🌾,U+1F33E,plant
+644,🌿,U+1F33F,plant
+645,☘,U+2618,plant
+646,🍀,U+1F340,plant
+647,🍁,U+1F341,plant
+648,🍂,U+1F342,plant
+649,🍃,U+1F343,plant
+650,🍇,U+1F347,fruit
+651,🍈,U+1F348,fruit
+652,🍉,U+1F349,fruit
+653,🍊,U+1F34A,fruit
+654,🍋,U+1F34B,fruit
+655,🍌,U+1F34C,fruit
+656,🍍,U+1F34D,fruit
+657,🥭,U+1F96D,fruit
+658,🍎,U+1F34E,fruit
+659,🍏,U+1F34F,fruit
+660,🍐,U+1F350,fruit
+661,🍑,U+1F351,fruit
+662,🍒,U+1F352,fruit
+663,🍓,U+1F353,fruit
+664,🫐,U+1FAD0,fruit
+665,🥝,U+1F95D,fruit
+666,🍅,U+1F345,fruit
+667,🫒,U+1FAD2,fruit
+668,🥥,U+1F965,fruit
+669,🥑,U+1F951,fruit
+670,🍆,U+1F346,fruit
+671,🥔,U+1F954,fruit
+672,🥕,U+1F955,fruit
+673,🌽,U+1F33D,fruit
+674,🌶,U+1F336,fruit
+675,🫑,U+1FAD1,fruit
+676,🥒,U+1F952,fruit
+677,🥬,U+1F96C,fruit
+678,🥦,U+1F966,fruit
+679,🧄,U+1F9C4,fruit
+680,🧅,U+1F9C5,fruit
+681,🍄,U+1F344,plant
+682,🥜,U+1F95C,food
+683,🌰,U+1F330,food
+684,🍞,U+1F35E,food
+685,🥐,U+1F950,food
+686,🥖,U+1F956,food
+687,🫓,U+1FAD3,food
+688,🥨,U+1F968,food
+689,🥯,U+1F96F,food
+690,🥞,U+1F95E,food
+691,🧇,U+1F9C7,food
+692,🧀,U+1F9C0,food
+693,🍖,U+1F356,food
+694,🍗,U+1F357,food
+695,🥩,U+1F969,food
+696,🥓,U+1F953,food
+697,🍔,U+1F354,food
+698,🍟,U+1F35F,food
+699,🍕,U+1F355,food
+700,🌭,U+1F32D,food
+701,🥪,U+1F96A,food
+702,🌮,U+1F32E,food
+703,🌯,U+1F32F,food
+704,🫔,U+1FAD4,food
+705,🥙,U+1F959,food
+706,🧆,U+1F9C6,food
+707,🥚,U+1F95A,food
+708,🍳,U+1F373,food
+709,🥘,U+1F958,food
+710,🍲,U+1F372,food
+711,🫕,U+1FAD5,food
+712,🥣,U+1F963,food
+713,🥗,U+1F957,food
+714,🍿,U+1F37F,food
+715,🧈,U+1F9C8,food
+716,🧂,U+1F9C2,food
+717,🥫,U+1F96B,food
+718,🍱,U+1F371,food
+719,🍘,U+1F358,food
+720,🍙,U+1F359,food
+721,🍚,U+1F35A,food
+722,🍛,U+1F35B,food
+723,🍜,U+1F35C,food
+724,🍝,U+1F35D,food
+725,🍠,U+1F360,food
+726,🍢,U+1F362,food
+727,🍣,U+1F363,food
+728,🍤,U+1F364,food
+729,🍥,U+1F365,food
+730,🥮,U+1F96E,food
+731,🍡,U+1F361,food
+732,🥟,U+1F95F,food
+733,🥠,U+1F960,food
+734,🥡,U+1F961,food
+735,🦀,U+1F980,food
+736,🦞,U+1F99E,food
+737,🦐,U+1F990,food
+738,🦑,U+1F991,food
+739,🦪,U+1F9AA,food
+740,🍦,U+1F366,food
+741,🍧,U+1F367,food
+742,🍨,U+1F368,food
+743,🍩,U+1F369,food
+744,🍪,U+1F36A,food
+745,🎂,U+1F382,food
+746,🍰,U+1F370,food
+747,🧁,U+1F9C1,food
+748,🥧,U+1F967,food
+749,🍫,U+1F36B,food
+750,🍬,U+1F36C,food
+751,🍭,U+1F36D,food
+752,🍮,U+1F36E,food
+753,🍯,U+1F36F,food
+754,🍼,U+1F37C,food
+755,🥛,U+1F95B,food
+756,☕,U+2615,food
+757,🫖,U+1FAD6,object
+758,🍵,U+1F375,object
+759,🍶,U+1F376,object
+760,🍾,U+1F37E,food
+761,🍷,U+1F377,food
+762,🍸,U+1F378,food
+763,🍹,U+1F379,food
+764,🍺,U+1F37A,food
+765,🍻,U+1F37B,food
+766,🥂,U+1F942,food
+767,🥃,U+1F943,object
+768,🥤,U+1F964,object
+769,🧋,U+1F9CB,food
+770,🧃,U+1F9C3,object
+771,🧉,U+1F9C9,object
+772,🧊,U+1F9CA,object
+773,🥢,U+1F962,object
+774,🍽,U+1F37D,object
+775,🍴,U+1F374,object
+776,🥄,U+1F944,object
+777,🔪,U+1F52A,object
+778,🏺,U+1F3FA,object
+779,🌍,U+1F30D,geography
+780,🌎,U+1F30E,geography
+781,🌏,U+1F30F,geography
+782,🌐,U+1F310,geography
+783,🗺,U+1F5FA,geography
+784,🗾,U+1F5FE,geography
+785,🧭,U+1F9ED,geography
+786,🏔,U+1F3D4,geography
+787,⛰,U+26F0,geography
+788,🌋,U+1F30B,geography
+789,🗻,U+1F5FB,geography
+790,🏕,U+1F3D5,geography
+791,🏖,U+1F3D6,geography
+792,🏜,U+1F3DC,geography
+793,🏝,U+1F3DD,geography
+794,🏞,U+1F3DE,geography
+795,🏟,U+1F3DF,building
+796,🏛,U+1F3DB,building
+797,🏗,U+1F3D7,building
+798,🧱,U+1F9F1,building
+799,🪨,U+1FAA8,object
+800,🪵,U+1FAB5,object
+801,🛖,U+1F6D6,building
+802,🏘,U+1F3D8,building
+803,🏚,U+1F3DA,building
+804,🏠,U+1F3E0,building
+805,🏡,U+1F3E1,building
+806,🏢,U+1F3E2,building
+807,🏣,U+1F3E3,building
+808,🏤,U+1F3E4,building
+809,🏥,U+1F3E5,building
+810,🏦,U+1F3E6,building
+811,🏨,U+1F3E8,building
+812,🏩,U+1F3E9,building
+813,🏪,U+1F3EA,building
+814,🏫,U+1F3EB,building
+815,🏬,U+1F3EC,building
+816,🏭,U+1F3ED,building
+817,🏯,U+1F3EF,building
+818,🏰,U+1F3F0,building
+819,💒,U+1F492,building
+820,🗼,U+1F5FC,building
+821,🗽,U+1F5FD,building
+822,⛪,U+26EA,building
+823,🕌,U+1F54C,building
+824,🛕,U+1F6D5,building
+825,🕍,U+1F54D,building
+826,⛩,U+26E9,building
+827,🕋,U+1F54B,building
+828,⛲,U+26F2,building
+829,⛺,U+26FA,building
+830,🌁,U+1F301,building
+831,🌃,U+1F303,building
+832,🏙,U+1F3D9,building
+833,🌄,U+1F304,building
+834,🌅,U+1F305,building
+835,🌆,U+1F306,building
+836,🌇,U+1F307,building
+837,🌉,U+1F309,building
+838,♨,U+2668,building
+839,🎠,U+1F3A0,building
+840,🎡,U+1F3A1,building
+841,🎢,U+1F3A2,building
+842,💈,U+1F488,building
+843,🎪,U+1F3AA,building
+844,🚂,U+1F682,transport
+845,🚃,U+1F683,transport
+846,🚄,U+1F684,transport
+847,🚅,U+1F685,transport
+848,🚆,U+1F686,transport
+849,🚇,U+1F687,transport
+850,🚈,U+1F688,transport
+851,🚉,U+1F689,transport
+852,🚊,U+1F68A,transport
+853,🚝,U+1F69D,transport
+854,🚞,U+1F69E,transport
+855,🚋,U+1F68B,transport
+856,🚌,U+1F68C,transport
+857,🚍,U+1F68D,transport
+858,🚎,U+1F68E,transport
+859,🚐,U+1F690,transport
+860,🚑,U+1F691,transport
+861,🚒,U+1F692,transport
+862,🚓,U+1F693,transport
+863,🚔,U+1F694,transport
+864,🚕,U+1F695,transport
+865,🚖,U+1F696,transport
+866,🚗,U+1F697,transport
+867,🚘,U+1F698,transport
+868,🚙,U+1F699,transport
+869,🛻,U+1F6FB,transport
+870,🚚,U+1F69A,transport
+871,🚛,U+1F69B,transport
+872,🚜,U+1F69C,transport
+873,🏎,U+1F3CE,transport
+874,🏍,U+1F3CD,transport
+875,🛵,U+1F6F5,transport
+876,🦽,U+1F9BD,transport
+877,🦼,U+1F9BC,transport
+878,🛺,U+1F6FA,transport
+879,🚲,U+1F6B2,transport
+880,🛴,U+1F6F4,transport
+881,🛹,U+1F6F9,transport
+882,🛼,U+1F6FC,transport
+883,🚏,U+1F68F,transport
+884,🛣,U+1F6E3,transport
+885,🛤,U+1F6E4,transport
+886,🛢,U+1F6E2,transport
+887,⛽,U+26FD,transport
+888,🚨,U+1F6A8,transport
+889,🚥,U+1F6A5,transport
+890,🚦,U+1F6A6,transport
+891,🛑,U+1F6D1,transport
+892,🚧,U+1F6A7,transport
+893,⚓,U+2693,transport
+894,⛵,U+26F5,transport
+895,🛶,U+1F6F6,transport
+896,🚤,U+1F6A4,transport
+897,🛳,U+1F6F3,transport
+898,⛴,U+26F4,transport
+899,🛥,U+1F6E5,transport
+900,🚢,U+1F6A2,transport
+901,✈,U+2708,transport
+902,🛩,U+1F6E9,transport
+903,🛫,U+1F6EB,transport
+904,🛬,U+1F6EC,transport
+905,🪂,U+1FA82,transport
+906,💺,U+1F4BA,transport
+907,🚁,U+1F681,transport
+908,🚟,U+1F69F,transport
+909,🚠,U+1F6A0,transport
+910,🚡,U+1F6A1,transport
+911,🛰,U+1F6F0,transport
+912,🚀,U+1F680,transport
+913,🛸,U+1F6F8,transport
+914,🛎,U+1F6CE,transport
+915,🧳,U+1F9F3l,transport
+916,⌛,U+231B,time
+917,⏳,U+23F3,time
+918,⌚,U+231A,time
+919,⏰,U+23F0,time
+920,⏱,U+23F1,time
+921,⏲,U+23F2,time
+922,🕰,U+1F570,time
+923,🕛,U+1F55B,time
+924,🕧,U+1F567,time
+925,🕐,U+1F550,time
+926,🕜,U+1F55C,time
+927,🕑,U+1F551,time
+928,🕝,U+1F55D,time
+929,🕒,U+1F552,time
+930,🕞,U+1F55E,time
+931,🕓,U+1F553,time
+932,🕟,U+1F55F,time
+933,🕔,U+1F554,time
+934,🕠,U+1F560,time
+935,🕕,U+1F555,time
+936,🕡,U+1F561,time
+937,🕖,U+1F556,time
+938,🕢,U+1F562,time
+939,🕗,U+1F557,time
+940,🕣,U+1F563,time
+941,🕘,U+1F558,time
+942,🕤,U+1F564,time
+943,🕙,U+1F559,time
+944,🕥,U+1F565,time
+945,🕚,U+1F55A,time
+946,🕦,U+1F566,time
+947,🌑,U+1F311,moon
+948,🌒,U+1F312,moon
+949,🌓,U+1F313,moon
+950,🌔,U+1F314,moon
+951,🌕,U+1F315,moon
+952,🌖,U+1F316,moon
+953,🌗,U+1F317,moon
+954,🌘,U+1F318,moon
+955,🌙,U+1F319,moon
+956,🌚,U+1F31A,moon
+957,🌛,U+1F31B,moon
+958,🌜,U+1F31C,moon
